@@ -1,0 +1,21 @@
+input{
+    width: 80%;
+    background-color: rgb(94, 54, 54);
+    color: white;
+    height: 7vh;
+    border: none;
+    border-radius: 5% 4%;
+    
+}
+
+textarea{
+    width: 80%;
+    height: 35vh;
+    background-color: rgb(94, 54, 54) ;
+    color: white;
+}
+
+button{
+    margin-top: 10%;
+    width: 35%;
+}
