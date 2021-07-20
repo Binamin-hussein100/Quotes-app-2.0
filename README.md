@@ -1,27 +1,52 @@
-# Quote
+## PROJECT NAME
+QUOTES ANGULAR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+## DECRIPTION
+A WEB A THAT ALLOWS ITS USERS TO READ QUOTES OR POST THEM <br>
+IT HAS BEEN BUILT TO ENABLE USERS TO DELETE OR ADD TO THE QUOTES <br>
+ALSO ALLOWS ITS USERS TO UP-VOTE OR DOWN-VOTE THE QUOTES.
 
-## Development server
+## AUTHOR 
+BINAMIN HUSSEIN HASSAN
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## SET-UP REQUIREMENT
 
-## Code scaffolding
+1.ONE NEEDS TO DPWNLOAD THE APP FROM PLAYSTORE <br>
+2.SIGN IT USING AN EMAIL, GOOGLE ACCOUNT OR TWITTER ACCOUNT
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## TECHNOLOGIES USED
 
-## Build
+ANGULAR CLI - FOR FRONT-END IMPROVEMENT AND DEVELOPMENT
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## DEVELOPMENT
+To fix a bug or enhance an existing module, follow these steps:
 
-## Running unit tests
+<ul>
+    <li>Fork the repo</li> 
+     <li>Create a new branch (git checkout -b improve-feature)</li>
+     <li>Make the appropriate changes in the files</li>
+     <li>Add changes to reflect the changes made</li>
+     <li>Commit your changes (git commit -am 'Improve feature')</li>
+     <li>Push to the branch (git push origin improve-feature)</li>
+     <li>Create a Pull Request</li>
+</ul>
+    
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## SUPPORT CONTACT
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+DEVELOPER IS REACHABLE  THROUGH<br>
 
-## Further help
+BINAMIN.H.HASSAN15@GMAIL.COM
+github.com/BINAMIN-HASSAN100
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## LICENCE
+MIT License
+
+Copyright (c) [2021] [BINAMIN HUSSEIN]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
