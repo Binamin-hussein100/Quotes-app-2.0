@@ -1,0 +1,20 @@
+.container {
+    background-color: rgb(143, 119, 119);
+    height: 100vh;
+   
+
+}
+.row{
+    background-color: rgb(143, 119, 119);
+}
+
+#displayer{
+    background-color: rgba(104, 83, 83, 0.849);
+    height: auto;
+    padding: 2%;
+}
+
+button{
+    margin-left: 3%;
+    padding: 2%;
+}
