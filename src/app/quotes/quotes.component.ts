@@ -30,9 +30,9 @@ export class QuotesComponent implements OnInit {
     this.quotes[index].downVote++
   }
 
-  // addNewQuote(quotes:any){
-  //   this.quotes.push(quotes)
-  // }
+  addNewQuote(quotes:any){
+    this.quotes.push(quotes)
+  }
   constructor() { }
 
   ngOnInit(): void {
